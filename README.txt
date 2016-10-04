@@ -1,8 +1,5 @@
 ========================================================
-Course: CS558
-Assignment: Assignment 1 
-Name: Atharva Ghaisas
-Email: aghaisa1@binghamton.edu
+Author: Atharva Ghaisas
 ========================================================
 
 Instructions - 
