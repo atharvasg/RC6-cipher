@@ -1,15 +1,24 @@
+========================================================
+Course: CS558
+Assignment: Assignment 1 
 Name: Atharva Ghaisas
 Email: aghaisa1@binghamton.edu
+========================================================
 
 Instructions - 
+--------------------------------------------------------
 
-clean - 
+1. To Compile and Run :
 
-rm -f Driver.class RCImplementor.class
+make
 
+2. clean : 
 
-Run - 
-./run ./input.txt ./output.txt
+make clean
 
+please keep the input files in the folder and even if the output file is not there it will be created automatically.
 
-This program implements RC6 algorithm with W=32 and r=20
+About :
+
+This program implements RC6 algorithm with W=32 and r=20.
+

@@ -23,12 +23,12 @@ public class Writer
 			if(operation==1)
 			{
 				
-				writer.write("plaintext:"+ str);
+				writer.write("ciphertext:"+ str);
 			}
 			else if(operation==2)
 			{
 				
-				writer.write("ciphertext:"+ str);
+				writer.write("plaintext:"+ str);
 			}
 			//fwriter.close();
 			writer.close();
